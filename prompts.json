@@ -1,12 +1,12 @@
 [
   {
-    "Category": "General1",
-    "PromptName": "who am i1",
-    "AIName": "llamba/ent31",
-    "PromptText": "who am I1",
-    "UserID": "systemsplanet1",
-    "Notes": "",
-    "DateUpdated": "2025-06-25T23:47:43.745Z",
+    "category": "General1",
+    "promptName": "who am i1",
+    "aIName": "llamba/ent31",
+    "promptText": "who am I1",
+    "userID": "systemsplanet1",
+    "notes": "",
+    "dateUpdated": "2025-06-25T23:47:43.745Z",
     "dateCreated": "2025-06-23 23:01:01"
   },
   {
