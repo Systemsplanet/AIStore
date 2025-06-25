@@ -1,2 +1,0 @@
-# AIStore
-Prompt storage
