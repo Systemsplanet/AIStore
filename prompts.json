@@ -1,5 +1,4 @@
-{
-  "data": [
+ [
     {
       "Category": "General",
       "Prompt Name": "who am i",
@@ -20,5 +19,4 @@
       "User ID": "systemsplanet",
       "Notes": "second note!"
     }
-  ]
-}
+ ]
