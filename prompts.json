@@ -6,8 +6,8 @@
     "promptText": "show it all",
     "userID": "systemsplanet",
     "notes": "note 222",
-    "dateUpdated": "2025-06-25T23:35:02.765Z",
-    "dateCreated": "2025-06-23 23:01:01"
+    "dateCreated": "2025-06-23 23:01:01",
+    "dateUpdated": "2025-06-26T00:40:25.478Z"
   },
   {
     "category": "General",
@@ -26,7 +26,17 @@
     "promptText": "who am I",
     "userID": "systemsplanet",
     "notes": "first note",
-    "dateUpdated": "2025-06-25T23:35:02.765Z",
-    "dateCreated": "2025-06-23 23:01:01"
+    "dateCreated": "2025-06-23 23:01:01",
+    "dateUpdated": "2025-06-26T00:40:58.672Z"
+  },
+  {
+    "category": "gg",
+    "promptName": "pn",
+    "aiName": "aaaaa",
+    "promptText": "p",
+    "userID": "uuu",
+    "notes": "nnnnn",
+    "dateCreated": "2025-06-26T00:41:48.006Z",
+    "dateUpdated": "2025-06-26T00:41:48.006Z"
   }
 ]
