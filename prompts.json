@@ -30,16 +30,6 @@
     "dateUpdated": "2025-06-26T00:40:58.672Z"
   },
   {
-    "category": "gg",
-    "promptName": "pn",
-    "aiName": "aaaaa",
-    "promptText": "p",
-    "userID": "uuu",
-    "notes": "nnnnn",
-    "dateCreated": "2025-06-26T00:41:48.006Z",
-    "dateUpdated": "2025-06-26T00:41:48.006Z"
-  },
-  {
     "category": "L1B3RT4S",
     "promptName": "QWEN 2.5 CODER (set as system prompt)",
     "aiName": "ALIBABA",
