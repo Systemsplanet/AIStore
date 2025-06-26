@@ -2,7 +2,7 @@
   {
     "category": "AIStore",
     "promptName": "show",
-    "aIName": "Gemini/2.5 Pro",
+    "aiName": "Gemini/2.5 Pro",
     "promptText": "show it all",
     "userID": "systemsplanet",
     "notes": "note 222",
@@ -12,7 +12,7 @@
   {
     "category": "General",
     "promptName": "who am i",
-    "aIName": "Gemini/2.5 Pro",
+    "aiName": "Gemini/2.5 Pro",
     "promptText": "who am I",
     "userID": "systemsplanet",
     "notes": "first note",
@@ -22,7 +22,7 @@
   {
     "category": "General",
     "promptName": "who am i",
-    "aIName": "llamba/et3",
+    "aiName": "llamba/et3",
     "promptText": "who am I",
     "userID": "systemsplanet",
     "notes": "first note",
