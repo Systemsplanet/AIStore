@@ -1,5 +1,15 @@
 [
   {
+    "category": "AIStore",
+    "promptName": "show",
+    "aIName": "Gemini/2.5 Pro",
+    "promptText": "show it all",
+    "userID": "systemsplanet",
+    "notes": "note 222",
+    "dateUpdated": "2025-06-25T23:35:02.765Z",
+    "dateCreated": "2025-06-23 23:01:01"
+  },
+  {
     "category": "General",
     "promptName": "who am i",
     "aIName": "Gemini/2.5 Pro",
@@ -16,16 +26,6 @@
     "promptText": "who am I",
     "userID": "systemsplanet",
     "notes": "first note",
-    "dateUpdated": "2025-06-25T23:35:02.765Z",
-    "dateCreated": "2025-06-23 23:01:01"
-  },
-  {
-    "category": "AIStore",
-    "promptName": "show",
-    "aIName": "Gemini/2.5 Pro",
-    "promptText": "show it all",
-    "userID": "systemsplanet",
-    "notes": "note 222",
     "dateUpdated": "2025-06-25T23:35:02.765Z",
     "dateCreated": "2025-06-23 23:01:01"
   }
