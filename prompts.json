@@ -1,15 +1,5 @@
 [
   {
-    "category": "AIStore",
-    "promptName": "show",
-    "aiName": "Gemini/2.5 Pro",
-    "promptText": "show it all",
-    "userID": "systemsplanet",
-    "notes": "note 222",
-    "dateCreated": "2025-06-23 23:01:01",
-    "dateUpdated": "2025-06-26T00:40:25.478Z"
-  },
-  {
     "category": "General",
     "promptName": "who am i",
     "aiName": "Gemini/2.5 Pro",
