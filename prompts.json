@@ -1,35 +1,5 @@
 [
   {
-    "category": "30",
-    "promptName": "31",
-    "aiName": "32",
-    "promptText": "34",
-    "userID": "33",
-    "notes": "35",
-    "dateCreated": "2025-06-26T22:00:15.965Z",
-    "dateUpdated": "2025-06-26T22:00:15.965Z"
-  },
-  {
-    "category": "General",
-    "promptName": "who am i",
-    "aiName": "Gemini/2.5 Pro",
-    "promptText": "who am I",
-    "userID": "systemsplanet",
-    "notes": "first note",
-    "dateUpdated": "2025-06-25T23:35:02.765Z",
-    "dateCreated": "2025-06-23 23:01:01"
-  },
-  {
-    "category": "General",
-    "promptName": "who am i",
-    "aiName": "llamba/et3",
-    "promptText": "who am I",
-    "userID": "systemsplanet",
-    "notes": "first note",
-    "dateCreated": "2025-06-23 23:01:01",
-    "dateUpdated": "2025-06-26T00:40:58.672Z"
-  },
-  {
     "category": "L1B3RT4S",
     "promptName": "QWEN 2.5 CODER (set as system prompt)",
     "aiName": "ALIBABA",
