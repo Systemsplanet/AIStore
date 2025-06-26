@@ -2,21 +2,21 @@
   {
     "category": "General1",
     "promptName": "who am i1",
-    "aIName": "llamba/ent31",
-    "promptText": "who am I1",
-    "userID": "systemsplanet1",
-    "notes": "",
-    "dateUpdated": "2025-06-25T23:47:43.745Z",
-    "dateCreated": "2025-06-23 23:01:01"
-  },
-  {
-    "category": "General1",
-    "promptName": "who am i1",
     "aIName": "Gemini/2.5 Pro",
     "promptText": "who am I1",
     "userID": "systemsplanet1",
     "notes": "first note1",
     "dateUpdated": "2025-06-25T23:35:02.765Z",
+    "dateCreated": "2025-06-23 23:01:01"
+  },
+  {
+    "Category": "General1",
+    "PromptName": "who am i1",
+    "AIName": "lamda/wtr",
+    "PromptText": "who am I1",
+    "UserID": "systemsplanet1",
+    "Notes": "",
+    "DateUpdated": "2025-06-26T00:06:44.976Z",
     "dateCreated": "2025-06-23 23:01:01"
   }
 ]
