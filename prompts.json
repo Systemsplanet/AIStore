@@ -13,11 +13,11 @@
     "category": "Aable",
     "aiName": "Any",
     "promptName": "Car thefts by Population",
-    "promptText": "Extract the \"Data & Discussion\"\ndata table from \"http://www.zerohedge.com/personal-finance/these-are-most-stolen-cars-every-us-state\"\n\nadd \"vehicles\" column with vehicles stolen divided by \"total state population\".\n\nFor \"total state population\" use this url: \"https://worldpopulationreview.com/states\"\n\nIgnore missing data\n\nOutput text with only two columns:\nvehicles * 10000 and State Name\nSorted by first column descending \n\nDont ask any questions.",
+    "promptText": "Extract the \"Data & Discussion\"\ndata table from \"http://www.zerohedge.com/personal-finance/these-are-most-stolen-cars-every-us-state\"\n\nadd \"vehicles\" column with vehicles stolen divided by \"total state population\".\n\nFor \"total state population\" use this url: \"https://worldpopulationreview.com/states\"\n\nIgnore missing data\n\nOutput text with only two columns:\nvehicles * 10000 and State Name\nSorted by first column descending \n\nDont ask any questions.\nOutput one row per state\nList all states",
     "userID": "systemsplanet",
     "notes": "",
     "dateCreated": "2025-07-05T08:33:48.134Z",
-    "dateUpdated": "2025-07-05T08:36:55.544Z"
+    "dateUpdated": "2025-07-05T08:43:23.926Z"
   },
   {
     "category": "Aable",
