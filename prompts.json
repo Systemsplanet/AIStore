@@ -30,6 +30,16 @@
     "dateUpdated": "2025-06-27T02:52:18.400Z"
   },
   {
+    "category": "Agent Zero",
+    "aiName": "Any",
+    "promptName": "Stock Data Analysis",
+    "promptText": "Analyze last quarter's NVIDIA sales data and create trend reports",
+    "userID": "frdel",
+    "notes": "",
+    "dateCreated": "2025-07-08T00:36:48.904Z",
+    "dateUpdated": "2025-07-08T00:36:48.904Z"
+  },
+  {
     "category": "Image generation",
     "aiName": "Any",
     "promptName": "Inspirational wall art",
