@@ -40,6 +40,16 @@
     "dateUpdated": "2025-07-08T00:36:48.904Z"
   },
   {
+    "category": "Dev",
+    "aiName": "All",
+    "promptName": "Think harder",
+    "promptText": "Think harder. \nAnswer in short.\nKeep it simple.",
+    "userID": "Davif Ondrej",
+    "notes": "Append to the end of every prompt",
+    "dateCreated": "2025-08-06T15:57:07.240Z",
+    "dateUpdated": "2025-08-06T15:57:07.240Z"
+  },
+  {
     "category": "Image generation",
     "aiName": "Any",
     "promptName": "Inspirational wall art",
