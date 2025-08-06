@@ -42,6 +42,16 @@
   {
     "category": "Dev",
     "aiName": "All",
+    "promptName": "Start app",
+    "promptText": "As a senior web developer \nCreate a single page htmp/css/javascript web app",
+    "userID": "Systemsplanet",
+    "notes": "",
+    "dateCreated": "2025-08-06T16:03:01.050Z",
+    "dateUpdated": "2025-08-06T16:03:01.050Z"
+  },
+  {
+    "category": "Dev",
+    "aiName": "All",
     "promptName": "Think harder",
     "promptText": "Think harder. \nAnswer in short.\nKeep it simple.",
     "userID": "Davif Ondrej",
