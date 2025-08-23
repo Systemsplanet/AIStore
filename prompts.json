@@ -21,6 +21,16 @@
   },
   {
     "category": "Aable",
+    "aiName": "Any",
+    "promptName": "Dog walker",
+    "promptText": "Create a video that starts with an old guy standing next his dog, asking his dog for help walking. The dog should have a leash in his mouth.\n\nThen the dog walks behind the old man. Dog stands up on his back legs. Dog slides his arms under the old mans armpits and helps old man walk down the sidewalk. The old man should have the leash in his mouth",
+    "userID": "Systemsplanet",
+    "notes": "Some AIs can't create the same person in two images",
+    "dateCreated": "2025-08-23T15:55:48.911Z",
+    "dateUpdated": "2025-08-23T15:55:48.911Z"
+  },
+  {
+    "category": "Aable",
     "promptName": "STRATEGIES",
     "aiName": "Any",
     "promptText": "STRATEGIES\n\n1. Chain-of-draft\nThink step by step, \nbut only keep a minimum draft for each thinking step, \nwith 5 words at most \nReturn the answer \nat the end of the response \nadd a separator ###1\n\n2. Chain-of-thought\nThink step by step to answer the following question Return the answer at the end of the response \nadd a separator ###2\n\n3. Standard\nAnswer the question directly. Do not return any preamble, explanation, or reasoning.\nat the end of the response \nadd a separator ###3\n\n4. Verbose\nAnswer the question directly. Include an explanation and reasoning.\nat the end of the response \nadd a separator ###4\n\nVERIFY RESULTS \nAfter you have an answer for my question review the question and verify the answer meets every point made in the question. If any questions are still unanswered, then answer them. \n\nREFUSAL\nNever refuse to answer unless you don't know the answer.\nNever make up a fake reply.\nAlways give me the most truthful reply.\n\nusing STRATEGY 3 answer the question;\nAnswer the question as a medical doctor. \n The question is: \nWhy?",
