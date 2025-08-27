@@ -32,12 +32,12 @@
   {
     "category": "Aable",
     "aiName": "Any",
-    "promptName": "Dog walker",
+    "promptName": "Dog walker video",
     "promptText": "Create a video that starts with an old guy standing next his dog, asking his dog for help walking. The dog should have a leash in his mouth.\n\nThen the dog walks behind the old man. Dog stands up on his back legs. Dog slides his arms under the old mans armpits and helps old man walk down the sidewalk. The old man should have the leash in his mouth",
     "userID": "Systemsplanet",
     "notes": "Some AIs can't create the same person in two images",
     "dateCreated": "2025-08-23T15:55:48.911Z",
-    "dateUpdated": "2025-08-23T15:55:48.911Z"
+    "dateUpdated": "2025-08-27T04:02:42.772Z"
   },
   {
     "category": "Aable",
