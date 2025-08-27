@@ -22,6 +22,16 @@
   {
     "category": "Aable",
     "aiName": "Any",
+    "promptName": "Dog Walker Image",
+    "promptText": "Create a image that starts with an old guy standing next his dog, asking his dog for help walking. The dog should have a leash in his mouth.\n\nIn the second image the dog walks behind the old man. Dog stands up on his back legs. Dog slides his arms under the old mans armpits and helps old man walk down the sidewalk. The old man should have the leash in his mouth",
+    "userID": "Systemsplanet",
+    "notes": "",
+    "dateCreated": "2025-08-27T04:02:13.149Z",
+    "dateUpdated": "2025-08-27T04:02:13.149Z"
+  },
+  {
+    "category": "Aable",
+    "aiName": "Any",
     "promptName": "Dog walker",
     "promptText": "Create a video that starts with an old guy standing next his dog, asking his dog for help walking. The dog should have a leash in his mouth.\n\nThen the dog walks behind the old man. Dog stands up on his back legs. Dog slides his arms under the old mans armpits and helps old man walk down the sidewalk. The old man should have the leash in his mouth",
     "userID": "Systemsplanet",
