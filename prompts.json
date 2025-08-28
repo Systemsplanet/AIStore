@@ -60,6 +60,16 @@
     "dateUpdated": "2025-07-08T00:36:48.904Z"
   },
   {
+    "category": "aisamson.io",
+    "aiName": "Gemini Flash Nano Banana",
+    "promptName": "Basic Editing & Lighting",
+    "promptText": "- Change time of day to night with neon lighting and vibrant reflections.\n- Add soft studio lighting and warm cinematic shadows.\n- Make this look like golden hour with rich, warm tones.",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
+    "dateCreated": "2025-08-28T18:33:06.404Z",
+    "dateUpdated": "2025-08-28T18:33:06.404Z"
+  },
+  {
     "category": "Dev",
     "aiName": "All",
     "promptName": "Start app",
