@@ -2,12 +2,12 @@
   {
     "category": "Aable",
     "aiName": "Any",
-    "promptName": "AIStrore modify",
-    "promptText": "As an expert web software developer\n\nModify this html\nhttps://raw.githubusercontent.com/Systemsplanet/systemsplanet.github.io/refs/heads/main/AIStore/index.html\n\nModify as few lines as possible.\nWhen a prompt is copied to the clipboard, save the entire contents of the copied row in a single Javascript variable. \n\nWhen a new prompt is added it should default all fields using the saved javascript.\n\nDont change anything else.",
+    "promptName": "AIStore Modify",
+    "promptText": "As an expert web software developer\n\nModify this html\nhttps://raw.githubusercontent.com/Systemsplanet/systemsplanet.github.io/refs/heads/main/AIStore/index.html\n\nModify as few lines as possible.\n\nDont change anything else.\n\nWhen a prompt is copied to the clipboard, save the entire contents of the copied row in a single Javascript variable. \n\nWhen a new prompt is added it should default all fields using the saved javascript.",
     "userID": "Systemsplanet",
     "notes": "",
     "dateCreated": "2025-08-29T02:46:44.029Z",
-    "dateUpdated": "2025-08-29T02:46:44.029Z"
+    "dateUpdated": "2025-08-29T02:48:09.799Z"
   },
   {
     "category": "Aable",
