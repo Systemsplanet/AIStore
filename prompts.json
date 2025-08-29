@@ -120,6 +120,16 @@
     "dateUpdated": "2025-08-29T03:26:15.994Z"
   },
   {
+    "category": "aisamson.io",
+    "aiName": "Gemini Flash Nano Banana",
+    "promptName": "Travel & Background Swaps",
+    "promptText": "- Place me on the summit of the Himalayas at sunrise, cinematic lighting.\n- Put me on a tropical Bali beach with turquoise water.\n- Teleport me to Times Square at night, glowing neon lights.",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
+    "dateCreated": "2025-08-29T03:30:04.429Z",
+    "dateUpdated": "2025-08-29T03:30:04.429Z"
+  },
+  {
     "category": "Dev",
     "aiName": "All",
     "promptName": "Start app",
