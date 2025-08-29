@@ -180,6 +180,16 @@
     "dateUpdated": "2025-08-29T03:30:04.429Z"
   },
   {
+    "category": "aisamson.io",
+    "aiName": "Gemini Flash Nano Banana",
+    "promptName": "Website & Marketing Materials",
+    "promptText": "- Design a sleek landing page for [product name] with high-converting layout.\n- Create a modern e-commerce homepage with product mockups and pricing cards.\n- Generate a poster in Soviet-style propaganda aesthetic with clean typography.",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
+    "dateCreated": "2025-08-29T03:36:20.294Z",
+    "dateUpdated": "2025-08-29T03:36:20.294Z"
+  },
+  {
     "category": "Dev",
     "aiName": "All",
     "promptName": "Start app",
