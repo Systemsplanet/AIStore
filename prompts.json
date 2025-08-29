@@ -122,6 +122,16 @@
   {
     "category": "aisamson.io",
     "aiName": "Gemini Flash Nano Banana",
+    "promptName": "Restoration & Colorization",
+    "promptText": "- Restore this 120-year-old photo: sharpen details, recolor naturally, and clean damage.\n- Recolor this old black-and-white portrait with soft skin tones and realistic contrast",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
+    "dateCreated": "2025-08-29T03:33:07.119Z",
+    "dateUpdated": "2025-08-29T03:33:07.119Z"
+  },
+  {
+    "category": "aisamson.io",
+    "aiName": "Gemini Flash Nano Banana",
     "promptName": "Style & Personal Branding",
     "promptText": "- Apply a formal business outfit, modern office background, and professional LinkedIn vibe.\n- Give me a confident Tinder photo with natural lighting and casual clothes.\n- Make this a stylish Facebook banner image, colorful and friendly.",
     "userID": "collabs@aisamson.io",
