@@ -92,6 +92,16 @@
   {
     "category": "aisamson.io",
     "aiName": "Gemini Flash Nano Banana",
+    "promptName": "Cleanups & Removals",
+    "promptText": "- Remove everyone from the photo except me.\n- Remove all background objects and keep the subject clean and sharp.\n- Remove specific people by name or position (e.g., \"remove person in red jacket\").",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
+    "dateCreated": "2025-08-29T03:31:54.063Z",
+    "dateUpdated": "2025-08-29T03:31:54.063Z"
+  },
+  {
+    "category": "aisamson.io",
+    "aiName": "Gemini Flash Nano Banana",
     "promptName": "Hairstyles & Transformations",
     "promptText": "- Give me a short buzzcut, clean and sharp.\n- Make my hair long, blonde, and luscious with natural waves.\n- Preview 3 hairstyle variations in separate versions.",
     "userID": "collabs@aisamson.io",
