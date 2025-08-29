@@ -2,12 +2,12 @@
   {
     "category": "Aable",
     "aiName": "Any",
-    "promptName": "AIStore Modify1",
+    "promptName": "AIStore Modify",
     "promptText": "As an expert web software developer\n\nModify this html\nhttps://raw.githubusercontent.com/Systemsplanet/systemsplanet.github.io/refs/heads/main/AIStore/index.html\n\nModify as few lines as possible.\n\nDont change anything else.\n\nWhen a prompt is copied to the clipboard, save the entire contents of the copied row in a single Javascript variable. \n\nWhen a new prompt is added it should default all fields using the saved javascript.",
     "userID": "Systemsplanet",
     "notes": "",
     "dateCreated": "2025-08-29T02:46:44.029Z",
-    "dateUpdated": "2025-08-29T06:22:05.046Z"
+    "dateUpdated": "2025-08-29T02:48:09.799Z"
   },
   {
     "category": "Aable",
@@ -97,7 +97,7 @@
     "userID": "collabs@aisamson.io",
     "notes": "https://organic-slayer-d96.notion.site/Free-Nano-Banana-Prompts-25d0c243208080c284e4e2d238465b81\n\nhttps://youtu.be/8e5Xs7mZ-R0?feature=shared",
     "dateCreated": "2025-08-28T18:33:06.404Z",
-    "dateUpdated": "2025-08-28T18:33:06.404Z"
+    "dateUpdated": "2025-08-29T06:25:18.748Z"
   },
   {
     "category": "aisamson.io",
@@ -197,7 +197,7 @@
     "userID": "Systemsplanet",
     "notes": "",
     "dateCreated": "2025-08-06T16:03:01.050Z",
-    "dateUpdated": "2025-08-29T06:21:33.171Z"
+    "dateUpdated": "2025-08-06T16:03:01.050Z"
   },
   {
     "category": "Dev",
