@@ -61,6 +61,16 @@
   },
   {
     "category": "aisamson.io",
+    "aiName": "Any",
+    "promptName": "Prompt pattern",
+    "promptText": "\"Design a[type of interface/tool] to\n[solve problem/use case] for [specific user]\nin the styleof[ui design notes].",
+    "userID": "collabs@aisamson.io",
+    "notes": "https://youtu.be/dO0eSqhs_jc?feature=shared\n\n1:47",
+    "dateCreated": "2025-08-29T02:37:49.415Z",
+    "dateUpdated": "2025-08-29T02:37:49.415Z"
+  },
+  {
+    "category": "aisamson.io",
     "aiName": "Gemini Flash Nano Banana",
     "promptName": "Basic Editing & Lighting",
     "promptText": "- Change time of day to night with neon lighting and vibrant reflections.\n- Add soft studio lighting and warm cinematic shadows.\n- Make this look like golden hour with rich, warm tones.",
