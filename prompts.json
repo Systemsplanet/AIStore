@@ -1,15 +1,5 @@
 [
   {
-    "category": "3",
-    "aiName": "4",
-    "promptName": "5",
-    "promptText": "7",
-    "userID": "6",
-    "notes": "8",
-    "dateCreated": "2025-08-31T00:02:59.108Z",
-    "dateUpdated": "2025-08-31T00:02:59.108Z"
-  },
-  {
     "category": "Aable",
     "aiName": "Any",
     "promptName": "AIStore Modify",
