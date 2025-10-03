@@ -12,6 +12,16 @@
   {
     "category": "Aable",
     "aiName": "Any",
+    "promptName": "Analyze New Plan",
+    "promptText": "<plan-alternative>\n</plan-alternative>\nHere is an alternative PLAN. \nIn what ways is it different than the one you gave me? \nAnd on what things do both of them agree on? \nAnd what are the core differences?\n\nThen take a deep breath, quiet your ego, stay humble, DO NOT JUMP TO\nCONCLUSION and analyze them objectively, like a Senior Developer\nwould, and tell me: \nWHICH ONE IS BETTER & WHY?\n\nstop being shy and BE DECISIVE. \n\nuse clear & plain English to\ndescribe which plan is better & why.\n\ndo not make any changes, just answer in short. \n\nultrathink.",
+    "userID": "davidondrej1",
+    "notes": "https://youtu.be/SJWwk_moO50?si=n_6XokBgbYDksJlb",
+    "dateCreated": "2025-10-03T21:23:26.001Z",
+    "dateUpdated": "2025-10-03T21:23:26.001Z"
+  },
+  {
+    "category": "Aable",
+    "aiName": "Any",
     "promptName": "Car thefts by Population",
     "promptText": "Extract the \"Data & Discussion\"\ndata table from \"http://www.zerohedge.com/personal-finance/these-are-most-stolen-cars-every-us-state\"\n\nadd \"vehicles\" column with vehicles stolen divided by \"total state population\".\n\nFor \"total state population\" use this url: \"https://worldpopulationreview.com/states\"\n\nIgnore missing data\n\nOutput text with only two columns:\nvehicles * 10000 and State Name\nSorted by first column descending \n\nDont ask any questions.\nOutput one row per state\nList all states",
     "userID": "systemsplanet",
