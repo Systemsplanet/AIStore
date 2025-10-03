@@ -70,6 +70,16 @@
     "dateUpdated": "2025-06-27T02:52:18.400Z"
   },
   {
+    "category": "Aable",
+    "aiName": "Claude Code",
+    "promptName": "Think Hard",
+    "promptText": "think hard, answer in short",
+    "userID": "davidondrej1",
+    "notes": "https://youtu.be/SJWwk_moO50?si=n_6XokBgbYDksJlb",
+    "dateCreated": "2025-10-03T21:32:03.928Z",
+    "dateUpdated": "2025-10-03T21:32:03.928Z"
+  },
+  {
     "category": "Agent Zero",
     "aiName": "Any",
     "promptName": "Stock Data Analysis",
