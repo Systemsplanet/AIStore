@@ -90,6 +90,16 @@
     "dateUpdated": "2025-10-03T21:32:03.928Z"
   },
   {
+    "category": "Aable",
+    "aiName": "NotebookLM",
+    "promptName": "Sumerize website",
+    "promptText": "For each article \n\n-List a new title that better explains the article and why it matters.\n\n-give a summary in common English, not jargon that explains why I should care",
+    "userID": "Systemsplanet",
+    "notes": "https://youtu.be/UhKEU7HWkUA?si=Uq-ibTMEEjCUxu4G",
+    "dateCreated": "2025-11-17T20:42:48.315Z",
+    "dateUpdated": "2025-11-17T20:44:00.265Z"
+  },
+  {
     "category": "Agent Zero",
     "aiName": "Any",
     "promptName": "Stock Data Analysis",
