@@ -52,6 +52,16 @@
   {
     "category": "Aable",
     "aiName": "Any",
+    "promptName": "CRM dashboard",
+    "promptText": "​# CRM dashboard for email campaigns\n​Build a CRM dashboard for email campaigns using React 18, Vite, and Tailwind CSS. Structure: src/components for reusable UI (Sidebar, Table, Modal, Chart), src/pages for Contacts, Campaigns, Analytics views, src/hooks for localStorage persistence. Features: Contacts page with searchable/sortable table, add/edit/delete functionality via modals; Campaigns page to create campaigns with subject, rich-text body, recipient multi-select, and schedule picker; Analytics page with Chart.js showing open/click/bounce rates with mock data. Dark theme, responsive layout, clean component separation. Provide complete project files with proper imports–package.json, vite.config, tailwind.config, and all source files ready to run with npm install && npm run dev.",
+    "userID": "DavidOndrej",
+    "notes": "https://youtu.be/syK7yprJknM?si=xBX3PMVoBdfCc5wv",
+    "dateCreated": "2026-01-14T17:42:06.275Z",
+    "dateUpdated": "2026-01-14T17:42:55.797Z"
+  },
+  {
+    "category": "Aable",
+    "aiName": "Any",
     "promptName": "Dog Walker Image",
     "promptText": "Create a image that starts with an old guy standing next his dog, asking his dog for help walking. The dog should have a leash in his mouth.\n\nIn the second image the dog walks behind the old man. Dog stands up on his back legs. Dog slides his arms under the old mans armpits and helps old man walk down the sidewalk. The old man should have the leash in his mouth",
     "userID": "Systemsplanet",
