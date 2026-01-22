@@ -548,5 +548,15 @@
     "notes": "https://github.com/Systemsplanet/L1B3RT4S/blob/main/COHERE.mkd",
     "dateCreated": "2025-06-26T02:51:10.471Z",
     "dateUpdated": "2025-06-26T02:51:10.471Z"
+  },
+  {
+    "category": "Relocation",
+    "aiName": "Any",
+    "promptName": "Location monthly stats",
+    "promptText": "Cool query to evaluate any location in the world.\n\nFor Carrasco Uruguay\nList in a grid\njan-dec\navg monthly \n   Wind Speed mph\n   Temperature Fahrenheit\n   Rainfall inches\n   Snow  inches\n   Storms\n   Hurricans\n   Tornadoes\n   Murders\n   Thefts\n   Assaults\n   Break-ins\n   Rapes\n   Attempted Rapes\n   Shootings\n   Stabings\n   \n   \nThink very hard\nDouble check your work\nDont hallucinate\n\nIf no data on the requested location then provide data from the next largest area you can find data for and include a note.\n\nLeave a grid cell blank if you cant find the data\nOmit grid rows with no data\n\nSave the grid as an image and text",
+    "userID": "Systemsplanet",
+    "notes": "",
+    "dateCreated": "2026-01-22T00:56:38.148Z",
+    "dateUpdated": "2026-01-22T00:56:38.148Z"
   }
 ]
