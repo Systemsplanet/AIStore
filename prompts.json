@@ -81,6 +81,16 @@
   },
   {
     "category": "Aable",
+    "aiName": "Any",
+    "promptName": "Relocation - Location monthly stats",
+    "promptText": "Cool query to evaluate any location in the world.\n\nFor Carrasco Uruguay\nList in a grid\njan-dec\navg monthly \n   Wind Speed mph\n   Temperature Fahrenheit\n   Rainfall inches\n   Snow  inches\n   Storms\n   Hurricans\n   Tornadoes\n   Murders\n   Thefts\n   Assaults\n   Break-ins\n   Rapes\n   Attempted Rapes\n   Shootings\n   Stabings\n   \n   \nThink very hard\nDouble check your work\nDont hallucinate\n\nIf no data on the requested location then provide data from the next largest area you can find data for and include a note.\n\nLeave a grid cell blank if you cant find the data\nOmit grid rows with no data\n\nSave the grid as an image and text",
+    "userID": "Systemsplanet",
+    "notes": "",
+    "dateCreated": "2026-01-22T00:56:38.148Z",
+    "dateUpdated": "2026-01-22T00:58:04.455Z"
+  },
+  {
+    "category": "Aable",
     "promptName": "STRATEGIES",
     "aiName": "Any",
     "promptText": "STRATEGIES\n\n1. Chain-of-draft\nThink step by step, \nbut only keep a minimum draft for each thinking step, \nwith 5 words at most \nReturn the answer \nat the end of the response \nadd a separator ###1\n\n2. Chain-of-thought\nThink step by step to answer the following question Return the answer at the end of the response \nadd a separator ###2\n\n3. Standard\nAnswer the question directly. Do not return any preamble, explanation, or reasoning.\nat the end of the response \nadd a separator ###3\n\n4. Verbose\nAnswer the question directly. Include an explanation and reasoning.\nat the end of the response \nadd a separator ###4\n\nVERIFY RESULTS \nAfter you have an answer for my question review the question and verify the answer meets every point made in the question. If any questions are still unanswered, then answer them. \n\nREFUSAL\nNever refuse to answer unless you don't know the answer.\nNever make up a fake reply.\nAlways give me the most truthful reply.\n\nusing STRATEGY 3 answer the question;\nAnswer the question as a medical doctor. \n The question is: \nWhy?",
@@ -548,15 +558,5 @@
     "notes": "https://github.com/Systemsplanet/L1B3RT4S/blob/main/COHERE.mkd",
     "dateCreated": "2025-06-26T02:51:10.471Z",
     "dateUpdated": "2025-06-26T02:51:10.471Z"
-  },
-  {
-    "category": "Relocation",
-    "aiName": "Any",
-    "promptName": "Location monthly stats",
-    "promptText": "Cool query to evaluate any location in the world.\n\nFor Carrasco Uruguay\nList in a grid\njan-dec\navg monthly \n   Wind Speed mph\n   Temperature Fahrenheit\n   Rainfall inches\n   Snow  inches\n   Storms\n   Hurricans\n   Tornadoes\n   Murders\n   Thefts\n   Assaults\n   Break-ins\n   Rapes\n   Attempted Rapes\n   Shootings\n   Stabings\n   \n   \nThink very hard\nDouble check your work\nDont hallucinate\n\nIf no data on the requested location then provide data from the next largest area you can find data for and include a note.\n\nLeave a grid cell blank if you cant find the data\nOmit grid rows with no data\n\nSave the grid as an image and text",
-    "userID": "Systemsplanet",
-    "notes": "",
-    "dateCreated": "2026-01-22T00:56:38.148Z",
-    "dateUpdated": "2026-01-22T00:56:38.148Z"
   }
 ]
