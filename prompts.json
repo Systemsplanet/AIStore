@@ -32,6 +32,16 @@
   {
     "category": "Aable",
     "aiName": "Any",
+    "promptName": "Audit yourself",
+    "promptText": "Audit yourself",
+    "userID": "Systemsplanet",
+    "notes": "",
+    "dateCreated": "2026-01-28T15:03:41.836Z",
+    "dateUpdated": "2026-01-28T15:03:41.836Z"
+  },
+  {
+    "category": "Aable",
+    "aiName": "Any",
     "promptName": "Car thefts by Population",
     "promptText": "Extract the \"Data & Discussion\"\ndata table from \"http://www.zerohedge.com/personal-finance/these-are-most-stolen-cars-every-us-state\"\n\nadd \"vehicles\" column with vehicles stolen divided by \"total state population\".\n\nFor \"total state population\" use this url: \"https://worldpopulationreview.com/states\"\n\nIgnore missing data\n\nOutput text with only two columns:\nvehicles * 10000 and State Name\nSorted by first column descending \n\nDont ask any questions.\nOutput one row per state\nList all states",
     "userID": "systemsplanet",
