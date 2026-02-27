@@ -140,6 +140,16 @@
     "dateUpdated": "2025-08-29T06:26:13.009Z"
   },
   {
+    "category": "aisamson.ai",
+    "aiName": "Any",
+    "promptName": "Character Identity Sheet",
+    "promptText": "## **Photorealistic Character Identity Sheet (Using a Reference Image)**\n\n**Prompt**\n\nCreate a **photorealistic multi-angle photographic identity sheet** based **strictly** on the uploaded reference image.\n\n- Match the **exact real-world appearance** of the person: facial structure, proportions, skin texture, age, asymmetry, and natural imperfections.\n- The result must look like **real photography of a real human**, not a digital character or 3D asset.\n- Use a **simple, neutral background**, similar to a studio or indoor wall.\n- The overall feeling should be **documentary and natural**, not stylized or cinematic.\n\n**Layout**\n\n- **Two horizontal rows**, presented as a clean photo contact sheet.\n    - **Top row:** four full-body photographs of the same person:\n        1. Facing the camera\n        2. Left-facing profile\n        3. Right-facing profile\n        4. Facing away from the camera\n    - **Bottom row:** three close-up photographic portraits:\n        1. Facing the camera\n        2. Left-facing profile\n        3. Right-facing profile\n\n**Pose & Body Language**\n\n- The subject stands **naturally and casually**, as a real person would when asked to stand still.\n- No exaggerated stance, no rigid pose, no symmetry.\n- Subtle, natural weight distribution and relaxed posture.\n- Shoulders relaxed, arms resting naturally at the sides.\n\n**Consistency & Accuracy**\n\n- Maintain **strong identity consistency** across all images.\n- Preserve natural human asymmetry.\n- Proportions must remain realistic and consistent without looking mechanically aligned.\n- The subject should feel like the *same person photographed multiple times*, not a replicated model.\n\n**Lighting & Camera**\n\n- Soft, neutral, real-world lighting (similar to window light or soft studio light).\n- No dramatic, cinematic, or stylized lighting.\n- Natural shadows with gentle falloff.\n- Realistic camera perspective and lens behavior.\n\n**Critical constraints**\n\n- Not a 3D render\n- Not CGI\n- Not a game character\n- Not stylized\n- Not a model turnaround\n\n---\n\n##",
+    "userID": "aisamson",
+    "notes": "https://youtu.be/G01kghX152g?si=s0eckuDm2n-GvTQi\n\n\ndelightfuldesign.eo.page/5m7md",
+    "dateCreated": "2026-02-27T19:00:12.867Z",
+    "dateUpdated": "2026-02-27T19:00:12.867Z"
+  },
+  {
     "category": "aisamson.io",
     "aiName": "Any",
     "promptName": "Prompt pattern",
