@@ -142,6 +142,16 @@
   {
     "category": "aisamson.io",
     "aiName": "Any",
+    "promptName": "Changing Wardrobe",
+    "promptText": "## **Changing Wardrobe (Photorealistic Edit)**\n\n**Prompt**\n\nUse the **same photographic identity sheet** as reference.\n\n- Maintain the **exact same person**: face, body, age, proportions, posture, and expression.\n- Change **only** the clothing to the following:\n\n**[INSERT OUTFIT DESCRIPTION OR REFERENCE IMAGE]**\n\n**Constraints**\n\n- The clothing must behave like real fabric on a real body.\n- No change to lighting, camera angle, or body posture.\n- The person should still feel like the same individual photographed on the same day, just wearing different clothes.\n- No stylization, no CGI look, no character redesign",
+    "userID": "aisamson",
+    "notes": "https://youtu.be/G01kghX152g?si=s0eckuDm2n-GvTQi\n\n\ndelightfuldesign.eo.page/5m7md",
+    "dateCreated": "2026-02-27T19:06:24.200Z",
+    "dateUpdated": "2026-02-27T19:06:24.200Z"
+  },
+  {
+    "category": "aisamson.io",
+    "aiName": "Any",
     "promptName": "Character Identity Sheet (No Reference Image)",
     "promptText": "Create a **photorealistic photographic identity sheet** of the following person:\n\n**[INSERT REALISTIC HUMAN DESCRIPTION HERE]**\n\n- The subject must look like a **real human photographed in the real world**.\n- Avoid any stylized, animated, or synthetic appearance.\n- Use a **simple neutral background**, similar to an ID or documentary shoot.\n\n**Layout**\n\n- **Two horizontal rows**, presented as a photo contact sheet.\n    - **Top row:** four full-body photographs:\n        1. Facing the camera\n        2. Left-facing profile\n        3. Right-facing profile\n        4. Facing away\n    - **Bottom row:** three close-up portraits:\n        1. Facing the camera\n        2. Left-facing profile\n        3. Right-facing profile\n\n**Pose & Presence**\n\n- Natural stance, relaxed posture.\n- No posing for presentation.\n- Subtle variation in head angle and body balance, like multiple photos taken moments apart.\n\n**Lighting & Finish**\n\n- Soft, neutral, realistic lighting.\n- No stylization, no dramatic contrast.\n- The final result should resemble **real reference photography**, not a character asset",
     "userID": "aisamson",
